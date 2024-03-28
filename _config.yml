@@ -1,9 +1,12 @@
 # Site settings
-title:
-email:
-description: > # this means to ignore newlines until "baseurl:"
+title: Big Cove Consulting
+email: info@bigcove.io
+description: >
+Specializing in technology consulting offering end-to-end solutions in software development, web applications,
+and embedded systems across multiple industries. With expertise in product design, development, and post-launch support,
+I guide clients from concept to implementation, including hardware specification and design for embedded systems.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "bigcove.io" # the base hostname & protocol for your site
 
 twitter_username:
 github_username:
